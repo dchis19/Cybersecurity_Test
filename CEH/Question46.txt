@@ -1,0 +1,6 @@
+46. What is the target of a command injection attack?
+A) Operating system
+B) Web server
+C) Database server
+D) User
+Answer: A

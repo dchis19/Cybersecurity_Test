@@ -1,0 +1,6 @@
+20. What technique would you ideally use to get all the hostnames associated with a domain?
+A) DNS query
+B) Zone copy
+C) Zone transer
+D) Recursive request
+Answer: C

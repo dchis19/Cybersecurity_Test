@@ -1,0 +1,6 @@
+16. The DNS server where records for a domain belonging to an organization or enterprise reside is the _____ server?
+A) Caching
+B) Recursive
+C) Authoritative
+D) Local
+Answer: C

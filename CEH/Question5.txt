@@ -1,0 +1,6 @@
+5. Which of these addresses would be considered a private address (RFC 1918 address)?
+A) 172.128.10.5
+B) 9.10.10.7
+C) 172.20.128.240
+D) 250.28.17.10
+Answer: C

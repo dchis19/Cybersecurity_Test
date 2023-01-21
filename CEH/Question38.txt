@@ -1,0 +1,6 @@
+38. What tool could you use to deeply analyze malicious software?
+A) strings
+B) Hashing
+C) Ghidra
+D) Metasploit
+Answer: C

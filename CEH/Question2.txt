@@ -1,0 +1,6 @@
+2. What order, from bottom to top, does the TCP/IP architecture use?
+A) Network Access, Network, Transport, Application
+B) Link, Internet, Transport, Application
+C) Physical, Network, Session, Application
+D) Data Link, Internet, Transport, Application
+Answer: B

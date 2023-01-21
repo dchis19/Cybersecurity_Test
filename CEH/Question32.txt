@@ -1,0 +1,6 @@
+32. What application would be a common target for client-side exploits?
+A) Web server
+B) Web browser
+C) Web application firewall
+D) Web pages
+Answer: B

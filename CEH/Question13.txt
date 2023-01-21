@@ -1,0 +1,6 @@
+13. Which of these isn't an example of an attack that compromises integrity?
+A) Buffer overflow
+B) Man in the middle
+C) Heap spraying
+D) Watering hole
+Answer: D

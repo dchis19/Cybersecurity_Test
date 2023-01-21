@@ -1,0 +1,6 @@
+48. How many steps are there in the ISO 27001 cycle?
+A) Two
+B) Three
+C) Four
+D) Five
+Answer: C

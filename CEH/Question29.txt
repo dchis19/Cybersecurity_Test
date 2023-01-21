@@ -1,0 +1,6 @@
+29. What tool does a Java program need to use to implement remote process communication?
+A) JRE
+B) rmic
+C) rmir
+D) JDK
+Answer: B

@@ -1,0 +1,6 @@
+47. What is it called when two different data sets yield the same cryptographic hash?
+A) Paradox
+B) Collision
+C) Crash
+D) Unrealistic
+Answer: B

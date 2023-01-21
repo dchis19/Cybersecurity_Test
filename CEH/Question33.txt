@@ -1,0 +1,6 @@
+33. What could you use to obtain password hashes from a compromised system?
+A) John the Ripper
+B) Mimikatz
+C) Rainbow tables
+D) Process dumping
+Answer: B

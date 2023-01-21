@@ -1,0 +1,6 @@
+40. Which program would you use if you wanted to only print specific fields from the captured packet?
+A) fielddump
+B) tcpdump
+C) wiredump
+D) tshark
+Answer: D

@@ -1,0 +1,6 @@
+37. What is the primary purpose of a polymorphic code for malware programs?
+A) Efficiency of execution
+B) Propagation of the malware
+C) Antivirus evasion
+D) Faster compilation
+Answer: C

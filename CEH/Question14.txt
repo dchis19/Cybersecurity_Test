@@ -1,0 +1,6 @@
+14. What type of attack is a compromise of availability?
+A) Watering hole
+B) DoS
+C) Phishing
+D) Buffer overflow
+Answer: B

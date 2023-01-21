@@ -1,0 +1,6 @@
+28. What status code will you get if your attempt to use the VRFY command fails?
+A) 550
+B) 501
+C) 250
+D) 200
+Answer: A

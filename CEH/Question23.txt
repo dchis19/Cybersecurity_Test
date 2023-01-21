@@ -1,0 +1,6 @@
+23. If you were looking up information about a company in New Zealand, which RIR would you be looking in for data?
+A) AfriNIC
+B) RIPE
+C) APNIC
+D) LACNIC
+Answer: C

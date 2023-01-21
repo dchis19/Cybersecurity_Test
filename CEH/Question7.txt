@@ -1,0 +1,6 @@
+7. Which of these protocols would be used to communicate with an IoT device?
+A) ICMP
+B) SMTP
+C) Telnet
+D) HTTP
+Answer: D

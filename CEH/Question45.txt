@@ -1,0 +1,6 @@
+45. What attack injects code into dynamically allocated memory?
+A) Buffer overflow
+B) Cross-site scripting
+C) Heap spraying
+D) Slowloris
+Answer: C

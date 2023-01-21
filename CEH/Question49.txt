@@ -1,0 +1,6 @@
+49. What type of application virtualization would you sue without going all the way to using a hypervisor?
+A) Emulation
+B) AWS
+C) Paravirtualization 
+D) Containers
+Answer: D

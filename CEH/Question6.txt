@@ -1,0 +1,6 @@
+6. Which of these is used to reassemble fragmented IP packets?
+A) Source address
+B) IP identification
+C) Don't fragment bit
+D) Acknowledgment field
+Answer: B

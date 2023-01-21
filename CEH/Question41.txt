@@ -1,0 +1,6 @@
+41. What is a viable approach to protecting against tailgating?
+A) Biometrics
+B) Badge access
+C) Phone verification
+D) Man traps
+Answer: D

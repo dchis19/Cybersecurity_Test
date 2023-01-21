@@ -1,0 +1,6 @@
+4. If you want a lightweight protocol to send real-time data over, which of these would you use?
+A) TCP
+B) HTTP
+C) ICMP
+D) UDP
+Answer: D

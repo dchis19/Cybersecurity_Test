@@ -1,0 +1,6 @@
+19. You see the following text written down--port:502. What does that likely reference?
+A) Shodan search
+B) I/O search
+C) p0f search
+D) RIR query
+Answer: A

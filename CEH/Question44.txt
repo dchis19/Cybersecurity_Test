@@ -1,0 +1,6 @@
+44. How many stages are used in the WPA handshake?
+A) Two
+B) Four
+C) Three
+D) One
+Answer: B

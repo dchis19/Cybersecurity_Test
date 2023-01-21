@@ -1,0 +1,6 @@
+21. Why is REST a common approach to web application design?
+A) HTML is stateless
+B) HTTP is stateless
+C) HTMML is stateful
+D) HTTP is stateful
+Answer: B

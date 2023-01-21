@@ -1,0 +1,6 @@
+36. Which of these tools would be most beneficial when trying to dynamically analyze malware?
+A) Cutter
+B) OllyDbg
+C) Metasploit
+D) AV-Test
+Answer: B

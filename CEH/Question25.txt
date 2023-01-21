@@ -1,0 +1,6 @@
+25. Which of these may be considered an evasive technique?
+A) Scanning nonstandard ports
+B) Encoding data
+C) Using a proxy server
+D) Using map in blind mode
+Answer: B

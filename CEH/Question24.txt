@@ -1,0 +1,6 @@
+24. What would you use MegaPing for?
+A) Running exploits
+B) Running a port scan
+C) Issuing manual web requests
+D) Crafting packets
+Answer: B

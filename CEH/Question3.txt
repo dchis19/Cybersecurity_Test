@@ -1,0 +1,6 @@
+3. What additional properties does the Parkerian hexad offer over the CIA triad?
+A) Confidentiality, awareness, authenticity
+B) Utility, awareness, possession 
+C) Utility, possession, authenticity
+D) Possession, control, authenticity
+Answer: C

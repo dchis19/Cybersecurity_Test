@@ -1,0 +1,6 @@
+18. What tool could be used to gather email addresses from PGP servers, Bing, Google, or LinkedIn?
+A) whois
+B) dig
+C) netstat
+D) theHarvester
+Answer: D

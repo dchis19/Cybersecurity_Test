@@ -1,0 +1,6 @@
+1. The PDU for TCP is called a ________.
+A) Packet
+B) Datagram
+C) Frame
+D) Segment
+Answer: D

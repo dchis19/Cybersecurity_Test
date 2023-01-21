@@ -1,0 +1,6 @@
+27. What SMTP command would you use to get the list of users in a mailing list?
+A) EXPD
+B) VRFY
+C) EXPN
+D) VRML
+Answer: C

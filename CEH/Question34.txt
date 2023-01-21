@@ -1,0 +1,6 @@
+34. What language is commonly used by attackers who live off the land?
+A) Ruby
+B) Python
+C) Cmdlets
+D) PowerShell
+Answer: D

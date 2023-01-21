@@ -1,0 +1,6 @@
+8. How would you ensure that confidentiality is implemented in an organization?
+A) Watchdog processes
+B) Encryption
+C) Cryptographic hashes
+D) Web servers
+Answer: B

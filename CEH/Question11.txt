@@ -1,0 +1,6 @@
+11. What important event can be exposed by enabling auditing?
+A) System shutdown
+B) Service shutdown
+C) Package installation 
+D) User login
+Answer: D

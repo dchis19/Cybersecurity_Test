@@ -1,0 +1,6 @@
+12. Which of the following products might be used as an intrusion detection system?
+A) Elastic stack
+B) Preqikka
+C) Snort
+D) Snorby
+Answer: C

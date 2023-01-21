@@ -1,0 +1,6 @@
+10. Which of these is an example of an application layer gateway?
+A) Web application firewall
+B) Runtime application self-protection
+C) Java applet
+D) Intrusion prevention system
+Answer: A

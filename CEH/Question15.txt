@@ -1,0 +1,6 @@
+15. What information could you get from running p0f?
+A) Local time
+B) Remote time
+C) Absolute time
+D) Uptime
+Answer: D

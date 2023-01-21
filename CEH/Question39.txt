@@ -1,0 +1,6 @@
+39. At which protocol does the Berkeley Packet Filter operate?
+A) Internetwork
+B) Transport
+C) Data Link
+D) Protocol
+Answer: C

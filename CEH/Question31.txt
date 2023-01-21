@@ -1,0 +1,6 @@
+31. If you were looking for reliable exploits you could use against known vulnerabilities, what would you use?
+A) Tor network
+B) Meterpreter
+C) msfvenom
+D) Exploit-DB
+Answer: D

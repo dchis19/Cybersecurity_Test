@@ -1,0 +1,6 @@
+26. How do you authenticate with SNMPv1?
+A) Username/password
+B) Hash
+C) Public string
+D) Community string
+Answer: D

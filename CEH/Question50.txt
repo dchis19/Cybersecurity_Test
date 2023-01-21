@@ -1,0 +1,6 @@
+50. What tool can you use to identify IoT devices on a network?
+A) Cloudscan
+B) nmap
+C) Samba 
+D) Postman
+Answer: B

@@ -1,0 +1,6 @@
+9. An intrusion detection system can perform which of the following functions?
+A) Block traffic
+B) Filter traffic based on headers
+C) Generate alerts on traffic
+D) Log system messages
+Answer: C

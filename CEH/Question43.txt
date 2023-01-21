@@ -1,0 +1,6 @@
+43. What part of the encryption process was weak in WEP?
+A) Keying
+B) Diffie-Hellman
+C) Initialization vector
+D) Seeding vector
+Answer: C

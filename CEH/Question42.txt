@@ -1,0 +1,6 @@
+42. What tool could you use to generate email attacks as well as wireless attacks?
+A) Meterpreter
+B) wifiphisher
+C) SE Toolkit
+D) Social Automator
+Answer: C

@@ -1,0 +1,6 @@
+30. Which of these is a reason to use an exploit against a local vulnerability?
+A) Pivoting
+B) Log manipulation
+C) Privilege escalation
+D) Password collection
+Answer: C

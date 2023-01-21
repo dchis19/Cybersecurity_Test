@@ -1,0 +1,6 @@
+35. What could you use to generate your own malware?
+A) Empire
+B) Metasploit
+C) Rcconsole
+D) IDA Pro
+Answer: B

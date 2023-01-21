@@ -1,0 +1,6 @@
+20. Which of the following poses a significant potential risk of unmanned aerial vehicles?
+A) They have sophisticated autopilot functions.
+B) They have cameras, sensors, and payloads.
+C) Some models have a low price.
+D) Their remote-control systems may be networked and therefore vulnerable.
+Answer: D

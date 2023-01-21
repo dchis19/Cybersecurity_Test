@@ -1,0 +1,6 @@
+17. When the network is very busy, VoIP calls start to sound badly clipped. What solution might improve the quality of the VoIP calls?
+A) 802.1z
+B) Traffic Shaping
+C) DNS
+D) Content Switching
+Answer: B

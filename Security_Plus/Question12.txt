@@ -1,0 +1,6 @@
+12. Which of the following is not associated typically with SIEM processes?
+A) Applications
+B) Syslog
+C) Log Capture
+D) Log Aggregation
+Answer: A

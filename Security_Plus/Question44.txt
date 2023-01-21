@@ -1,0 +1,6 @@
+44. Which of the following is the term for a document used to explain the boundaries of company secret material, information over which control should be exercised to prevent disclosure to unauthorized parties, and to obtain agreement to follow these limits?
+A) Nondisclosure agreement (NDA)
+B) Data access agreement (DAA)
+C) Data disclosure agreement (DDA)
+D) Data release agreement (DRA)
+Answer: A

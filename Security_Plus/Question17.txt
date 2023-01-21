@@ -1,0 +1,6 @@
+17. Why is memory management important in software development?
+A) A program can grow and consume other program spaces.
+B) Memory is expensive.
+C) Memory can be a speed issue.
+D) None of the above.
+Answer: A

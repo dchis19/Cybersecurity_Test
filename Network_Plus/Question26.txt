@@ -1,0 +1,6 @@
+26. John has two groups of virtual machines that each need to be on their own subnet. Which of the following should he use to subnet each group of VMs without moving or recabling hardware?
+A) Virtual NIC
+B) Virtual switch
+C) Virtual router
+D) Virtual firewall
+Answer: C

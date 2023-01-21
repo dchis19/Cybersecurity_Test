@@ -1,0 +1,6 @@
+42. Which of the following is the fastest category of control when responding to a known threat?
+A) Operational
+B) Technical
+C) Administrative
+D) Managerial
+Answer: B

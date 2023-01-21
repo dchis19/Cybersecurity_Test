@@ -1,0 +1,6 @@
+45. Which command shows you detailed IP information, including DNS server addresses and MAC addresses?
+A) ipconfig
+B) ipconfig -a
+C) ipconfig /all
+D) ipconfig /dns
+Answer: C

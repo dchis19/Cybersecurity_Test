@@ -1,0 +1,6 @@
+32. Which of the following is used to identify when a device is within a specified distance of a location?
+A) Geofencing
+B) Geoproximity
+C) Geodistance
+D) Geotagging
+Answer: A

@@ -1,0 +1,6 @@
+16. If you see some traffic running on UDP ports 1812 and 1813, what AAA standard is running?
+A) PPP
+B) RADIUS
+C) MS-CHAP
+D) TACACS+
+Answer: B

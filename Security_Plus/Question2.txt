@@ -1,0 +1,6 @@
+2. Which of the following is/are psychological tools used by social engineers to create false trust with a target?
+A) Impersonation
+B) Urgency or scarcity
+C) Authority
+D) All of the above
+Answer: D

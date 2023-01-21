@@ -1,0 +1,6 @@
+18. Which of the following algorithms uses a secret key with a current timestamp to generate a one-time password?
+A) Hash-based Message Authentication Code
+B) Date-Hashed Message Authorization Password
+C) Time-based One-Time Password
+D) Single sign-on
+Answer: C

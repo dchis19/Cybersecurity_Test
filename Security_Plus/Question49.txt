@@ -1,0 +1,6 @@
+49. What is the most secure means of establishing connectivity to a Wi-Fi access point?
+A) CCMP
+B) SAE Protocol
+C) WPA2
+D) IEEE 802.1X
+Answer: B

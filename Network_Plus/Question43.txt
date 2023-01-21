@@ -1,0 +1,6 @@
+43. What is Wireshark?
+A) Protocol analyzer
+B) Packet sniffer
+C) Packet analyzer
+D) All of the above
+Answer: D

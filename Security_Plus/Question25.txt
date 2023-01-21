@@ -1,0 +1,6 @@
+25. You are a security admin for XYZ company. You suspect that company e-mails using the default POP and IMAP e-mail protocols and ports are getting intercepted while in transit. Which of the following ports should you consider using?
+A) Ports 995 and 993
+B) Ports 53 and 22
+C) Ports 110 and 143
+D) Ports 161 and 141
+Answer: A

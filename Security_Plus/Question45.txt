@@ -1,0 +1,6 @@
+45. Which of the following terms is used to describe the target time that is set for the resumption of operations after an incident?
+A) RPO
+B) MTBF
+C) RTO
+D) MTTR
+Answer: C

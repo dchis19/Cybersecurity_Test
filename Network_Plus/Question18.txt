@@ -1,0 +1,6 @@
+18. Which IEEE protocol enables port bonding?
+A) 802.1Q
+B) LACP
+C) PAgP
+D) ZACP
+Answer: B

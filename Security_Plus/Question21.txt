@@ -1,0 +1,6 @@
+21. You are implementing a test lab at your organization for early alpha software development. To prevent any of the development code from inadvertently getting put on production computers, what should you implement?
+A) Air gap
+B) Strict firewalls
+C) Protected distribution
+D) Patch management
+Answer: A

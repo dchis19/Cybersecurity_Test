@@ -1,0 +1,6 @@
+29. RTP runs on which ports?
+A) ICMP ports 5004, 5005
+B) UDP ports 5004, 5005
+C) TCP ports 5004, 5005
+D) Undefined UDP ports
+Answer: D

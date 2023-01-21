@@ -1,0 +1,6 @@
+19. You have offices in six locations across town and wish to utilize a common backup restore methodology. Which would be the most efficient solution for your small offices?
+A) SAN
+B) NAS
+C) Cloud
+D) Offline
+Answer: C

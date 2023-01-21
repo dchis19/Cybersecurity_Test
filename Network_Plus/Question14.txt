@@ -1,0 +1,6 @@
+14. Which type of DNS record is used by mail servers to determine where to send e-mail?
+A) A record
+B) CNAME record
+C) MX record
+D) SMTP record
+Answer: C

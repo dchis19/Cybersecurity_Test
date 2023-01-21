@@ -1,0 +1,6 @@
+30. What is a medianet’s primary tool to ensure bandwidth for VTC?
+A) MPLS
+B) RTU
+C) QoS
+D) ISDN
+Answer: C

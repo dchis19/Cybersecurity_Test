@@ -1,0 +1,6 @@
+42. What tool enables you to compare current network performance with correctly functioning network performance?
+A) Baseline monitor
+B) Packet flow monitor
+C) Packet sniffer
+D) Performance monitor
+Answer: D

@@ -1,0 +1,6 @@
+9. Which of the following is a valid Class C IP address?
+A) 50.50.50.50
+B) 100.100.100.100
+C) 192.168.0.254
+D) 250.250.250.250
+Answer: C

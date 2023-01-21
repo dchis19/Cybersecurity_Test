@@ -1,0 +1,6 @@
+41. Where does a packet sniffer put information it collects?
+A) Answer file
+B) Capture file
+C) Pocket file
+D) Sniffer file
+Answer: B

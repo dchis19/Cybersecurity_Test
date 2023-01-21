@@ -1,0 +1,6 @@
+6. How many pairs of wires are in a Cat 6-rated cable?
+A) 2
+B) 4
+C) 8
+D) It doesn't specify.
+Answer: B

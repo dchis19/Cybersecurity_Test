@@ -1,0 +1,6 @@
+11. Which protocol enables synchronization of communication among connected computing devices?
+A) FTP
+B) IMAP4
+C) NTP
+D) TFTP
+Answer: C

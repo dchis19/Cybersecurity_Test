@@ -1,0 +1,6 @@
+4. Your boss thanks you for pictures you sent him. You ask him what he is talking about, and he says he got an e-mail from you of F-18s. Knowing you did not send him an e-mail, what type of attack do you suspect is happening?
+A) Phishing
+B) Spear Phishing
+C) Reconnissance
+D) Impersonation
+Answer: B

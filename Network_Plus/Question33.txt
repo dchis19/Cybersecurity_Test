@@ -1,0 +1,6 @@
+33. During and after a change to the IT infrastructure, what must be done?
+A) Downtime must be scheduled.
+B) New equipment must be installed.
+C) Operating systems must be patched.
+D) The changes must be documented.
+Answer: D

@@ -1,0 +1,6 @@
+5. What is the maximum distance for 1000BASE-LX without repeaters?
+A) 1 mile
+B) 2500 meters
+C) 20,000 feet
+D) 5000 meters
+Answer: D

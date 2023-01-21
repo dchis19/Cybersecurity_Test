@@ -1,0 +1,6 @@
+32. The best way to know the vulnerabilities of an IT infrastructure is to run what?
+A) A system-wide antivirus scanner
+B) Cable certifier
+C) Critical asset scanner
+D) Vulnerability scanner
+Answer: D

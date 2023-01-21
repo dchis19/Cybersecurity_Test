@@ -1,0 +1,6 @@
+46. Who is responsible for determining what data is needed by the enterprise?
+A) Data Steward
+B) Data Privacy Officer
+C) Data Custodian
+D) Data Owner
+Answer: D

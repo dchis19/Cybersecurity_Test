@@ -1,0 +1,6 @@
+33. A ticket-granting server is an important element in which of the following authentication models?
+A) 802.1X
+B) RADIUS
+C) TACACS+
+D) Kerberos
+Answer: D

@@ -1,0 +1,6 @@
+40. Your security system has identified a specific executable as potentially dangerous. What is the best way to handle the specific item that was identified?
+A) Segmentation
+B) Quarantine
+C) Firewall Rule
+D) Remote into the asset
+Answer: B

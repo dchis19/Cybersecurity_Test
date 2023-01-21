@@ -1,0 +1,6 @@
+10. Which of the following is an EGP?
+A) BGP
+B) IGP
+C) EIGRP
+D) IS-IS
+Answer: A

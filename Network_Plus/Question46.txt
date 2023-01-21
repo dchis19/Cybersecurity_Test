@@ -1,0 +1,6 @@
+46. What is the last step in the troubleshooting process?
+A) Implementing the solution
+B) Testing the solution
+C) Documenting the solution
+D) Closing the help ticket
+Answer: C

@@ -1,0 +1,6 @@
+24. When setting up WPA2-PSK on his wireless network, Edsel has the option to choose TKIP or AES. Which should he implement?
+A) Only AES
+B) Only TKIP
+C) Both AES and TKIP
+D) Neither. He should implement RADIUS.
+Answer: A

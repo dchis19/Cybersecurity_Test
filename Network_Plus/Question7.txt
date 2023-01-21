@@ -1,0 +1,6 @@
+7. Rack-mounted equipment has a height measured in what units?
+A) Mbps
+B) MBps
+C) Inches
+D) U
+Answer: D

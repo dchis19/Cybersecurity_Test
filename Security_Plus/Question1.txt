@@ -1,0 +1,6 @@
+1. Which of the following is a type of social engineering attack in which an attacker attempts to obtain sensitive information from a user by masquerading as a trusted entity in an e-mail?
+A) Phishing
+B) Pharming
+C) Spam
+D) Vishing
+Answer: A

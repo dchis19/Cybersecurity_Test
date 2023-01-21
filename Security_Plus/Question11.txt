@@ -1,0 +1,6 @@
+11. Who assumes the risk associated with a system or product after it has entered EOL status?
+A) The original manufacturer
+B) The vendor
+C) The organization
+D) The supply chain manager
+Answer: C

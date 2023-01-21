@@ -1,0 +1,6 @@
+36. To search through a system to find files containing a phrase, what would the best tool be?
+A) Curl
+B) Logger
+C) Chmod
+D) Grep
+Answer: D

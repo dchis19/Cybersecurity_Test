@@ -1,0 +1,6 @@
+12. What port does passive FTP use?
+A) 20
+B) 21
+C) 23
+D) 25
+Answer: B

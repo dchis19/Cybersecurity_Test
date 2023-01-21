@@ -1,0 +1,6 @@
+35. To test your systems against weak passwords, you as an admin (with proper permissions) test all the accounts using the top 100 commonly used passwords. What is this test an example of?
+A) Dictionary
+B) Password Spraying
+C) Rainbow Tables
+D) Online
+Answer: B

@@ -1,0 +1,6 @@
+28. What is the role of EAP in wireless connections?
+A) It is a framework for establishing connectivity.
+B) It is a framework for passing authentication information.
+C) It is a framework to secure the authentication process.
+D) It is an actual encryption method used during authentication.
+Answer: C

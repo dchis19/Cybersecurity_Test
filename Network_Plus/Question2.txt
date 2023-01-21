@@ -1,0 +1,6 @@
+2. Which of the following is a type of coaxial cable?
+A) RJ-45
+B) RG-6
+C) BNC
+D) Barrel
+Answer: B

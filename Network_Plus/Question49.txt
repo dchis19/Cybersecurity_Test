@@ -1,0 +1,6 @@
+49. Which network topology is most commonly seen only in wireless networks?
+A) Star
+B) Bus
+C) Ring
+D) Mesh
+Answer: D

@@ -1,0 +1,6 @@
+27. Blackwell Held, LLC, leases space in the Wapi Lava Corporation’s data center. Which term describes this type of scenario?
+A) Branch office
+B) Co-location
+C) Leased-line
+D) On-premises
+Answer: B

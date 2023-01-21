@@ -1,0 +1,6 @@
+47. Steganography is commonly accomplished using which method?
+A) Encryption
+B) Initialization Vectors (IVs)
+C) LSB Encoding
+D) Entropy Substitution 
+Answer: C

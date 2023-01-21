@@ -1,0 +1,6 @@
+38. What is the best way to deal with large, complex systems that have very expensive and lengthy process elements in an exercise?
+A) Tabletops
+B) Walkthroughs
+C) Simulations
+D) Discussions
+Answer: C

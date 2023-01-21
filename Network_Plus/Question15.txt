@@ -1,0 +1,6 @@
+15. In a PKI encryption method, which key encrypts the data?
+A) Public
+B) Private
+C) Both
+D) Depends on who sends the data
+Answer: A

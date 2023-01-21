@@ -1,0 +1,6 @@
+50. A TLS URL connection starts with which prefix?
+A) http
+B) www
+C) ftp
+D) https
+Answer: D

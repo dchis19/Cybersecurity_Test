@@ -1,0 +1,6 @@
+35. Which term most closely describes collecting all of the network clients or servers that need the same security policies?
+A) Hardening
+B) Segmentation
+C) Spoofing
+D) Posturing
+Answer: B

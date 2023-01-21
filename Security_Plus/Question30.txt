@@ -1,0 +1,6 @@
+30. You need to manage a whole host of different endpoints in the enterprise, including mobile devices, iPads, printers, PCs and phones. Which of the following is the most comprehensive solution?
+A) COPE-based solutions
+B) MAM solutions
+C) MDM solutions
+D) UEM solutions
+Answer: D

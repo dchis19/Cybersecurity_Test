@@ -1,0 +1,6 @@
+23. Given a large quantity of data in the form of a streaming video file, what is the best type of encryption method to protect the content from unauthorized live viewing?
+A) Symmetric block
+B) Hashing algorithm
+C) Stream cipher
+D) Asymmetric block
+Answer: C

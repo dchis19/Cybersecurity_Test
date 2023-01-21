@@ -1,0 +1,6 @@
+1. A NIC sends data in discrete chunks called __________. 
+A) Segments
+B) Sections
+C) Frames
+D) Layers
+Answer: C

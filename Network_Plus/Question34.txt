@@ -1,0 +1,6 @@
+34. Which deployment model uses employee-owned mobile devices for corporate use?
+A) BYOD
+B) COBO
+C) COPE
+D) CYOD
+Answer: A

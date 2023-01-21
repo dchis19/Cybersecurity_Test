@@ -1,0 +1,6 @@
+20. Which of the following is the valid fully reduced version of the address 2001:0489:000f:0000:0000:1f00:0000:000d?
+A) 2001:489:f::1f:0:d
+B) 2001:489:f::1f00::d
+C) 2001:0489:000f::1f00:0000:000d
+D) 2001:489:f::1f00:0:d
+Answer: D

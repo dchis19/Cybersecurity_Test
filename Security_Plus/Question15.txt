@@ -1,0 +1,6 @@
+15. You are planning to move some applications to the cloud, including your organization’s accounting application, which is highly customized and does not scale well. Which cloud deployment model is best for this application?
+A) SaaS
+B) PaaS
+C) IaaS
+D) None of the above
+Answer: C

@@ -1,0 +1,6 @@
+38. Bob is told by his administrator to update his anti-malware program before he runs it. What kind of anti-malware is he most likely using?
+A) Host-based
+B) Network-based
+C) Cloud-based
+D) FTP-based
+Answer: A

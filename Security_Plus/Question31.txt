@@ -1,0 +1,6 @@
+31. Virtual networking in a cloud environment can include all of the following except?
+A) VPC Endpoint
+B) Public Subnets
+C) Private Subnets
+D) Network Function Virtualization
+Answer: A

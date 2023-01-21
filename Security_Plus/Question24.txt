@@ -1,0 +1,6 @@
+24. A user reports to the help desk that he is getting “cannot resolve address” error messages from his browser. Which port is likely a problem on his firewall?
+A) 22
+B) 53
+C) 161
+D) 162
+Answer: B

@@ -1,0 +1,6 @@
+8. What is the result of converting 11110000.10111001.00001000.01100111 to dotted decimal notation?
+A) 4.5.1.5
+B) 240.185.8.103
+C) 15.157.16.230
+D) 103.8.185.240
+Answer: B

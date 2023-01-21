@@ -1,0 +1,6 @@
+48. Which port does FTPS use?
+A) 53
+B) 83
+C) 990
+D) 991
+Answer: C

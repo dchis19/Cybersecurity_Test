@@ -1,0 +1,6 @@
+40. How does an SNMP managed system categorize data that can be queried?
+A) QoS
+B) MIBs
+C) PDUs
+D) UDP
+Answer: B

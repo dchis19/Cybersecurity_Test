@@ -1,0 +1,6 @@
+22. Which technology enables a private optical network within a MAN?
+A) DSL
+B) DOCSIS
+C) Metro Ethernet
+D) VPN
+Answer: C

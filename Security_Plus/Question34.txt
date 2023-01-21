@@ -1,0 +1,6 @@
+34. The X.509 standard applies to which of the following?
+A) SSL Providers
+B) Digital Certificates
+C) Certificate Revocation List
+D) Public Key Infrastructure 
+Answer: B

@@ -1,0 +1,6 @@
+6. Several desktops in your organization are displaying a red screen with the message “Your files have been encrypted. Pay 1 bitcoin to recover them.” These desktops have most likely been affected by what type of malware?
+A) Spyware
+B) Spraying
+C) Ransomware
+D) Crypto-malware
+Answer: C

@@ -1,0 +1,6 @@
+23. What feature enabled 802.11n networks to minimize dead spots?
+A) Channel bonding
+B) FIFO
+C) MIMO
+D) Transit beamforming
+Answer: D

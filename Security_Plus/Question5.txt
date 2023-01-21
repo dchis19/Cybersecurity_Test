@@ -1,0 +1,6 @@
+5. A disgruntled administrator is fired for negligence. Thirty days later, your internal file server and backup server crash at exactly the same time, which the admin used to run. Examining the servers, you determine that critical O.S. files were deleted. This is most likely an example of what kind of malware?
+A) Crypto-malware
+B) Trojan
+C) Worm
+D) Logic bomb
+Answer: D

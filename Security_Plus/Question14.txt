@@ -1,0 +1,6 @@
+14. Which of the following is not a state of data in the enterprise?
+A) At rest
+B) In storage
+C) In processing
+D) In transit/motion
+Answer: B

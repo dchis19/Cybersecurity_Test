@@ -1,0 +1,6 @@
+13. What command do you run to see the DNS cache on a Windows system?
+A) ping /showdns
+B) ipconfig /showdns
+C) ipconfig /displaydns
+D) ping /displaydns
+Answer: C

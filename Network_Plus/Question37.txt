@@ -1,0 +1,6 @@
+37. An attack where someone tries to hack a password using every possible password permutation is called what?
+A) Man-in-the-middle
+B) Spoofing
+C) Rainbow table
+D) Brute force
+Answer: D

@@ -1,0 +1,6 @@
+13. When a pen tester uses OSINT to gain information on a system, the type of environment can be changed from ______ to _______.
+A) closed, open
+B) unknown, known
+C) secure, vulnerable
+D) unknown, partially known
+Answer: D

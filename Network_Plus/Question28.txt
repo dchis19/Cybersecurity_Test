@@ -1,0 +1,6 @@
+28. Which open standard protocol enables redundant routers to appear as a single router for high availability?
+A) HSRP
+B) RRPX
+C) VRRP
+D) XRRP
+Answer: C

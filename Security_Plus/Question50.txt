@@ -1,0 +1,6 @@
+50. Understanding how an attacker operates so that you can develop a defensive posture is done through the use of which of the following?
+A) Predictive Analysis
+B) TTPs
+C) Threat Maps
+D) Automated Indicator Sharing
+Answer: B

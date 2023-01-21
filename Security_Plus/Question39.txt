@@ -1,0 +1,6 @@
+39. Where can you find metadata showing where a picture was taken?
+A) EXIF data
+B) IPFIX data
+C) E-mail metadata
+D) SIP CTL
+Answer: A

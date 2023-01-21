@@ -1,0 +1,6 @@
+4. Which networking devices can use the Spanning Tree Protocol (STP)?
+A) Hubs
+B) Media Converters
+C) UTP Cables
+D) Switches
+Answer: D

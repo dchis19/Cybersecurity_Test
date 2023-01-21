@@ -1,0 +1,6 @@
+9. A user wants to know if the network is down because she is unable to connect to anything. While troubleshooting, you notice the MAC address for her default gateway setting doesn’t match the MAC address of your organization’s router. What type of attack has been used against this user?
+A) MAC Cloning
+B) ARP Poisoning
+C) Disassociation
+D) Rogue Access Point
+Answer: B

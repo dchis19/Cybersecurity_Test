@@ -1,0 +1,6 @@
+36. Which of the following is a tool to prevent ARP cache poisoning?
+A) DHCP
+B) DAI
+C) Edge firewall
+D) DNS snooping
+Answer: B

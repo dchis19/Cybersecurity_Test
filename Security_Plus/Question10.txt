@@ -1,0 +1,6 @@
+10. Your threat intelligence vendor is sending out urgent messages concerning a new form of memory-resident malware. What is the likely item they are sharing with you?
+A) Vulnerability database
+B) Indicator of compromise
+C) Dark web
+D) Trusted Automated Exchange of Intelligence Information (TAXII)
+Answer: B

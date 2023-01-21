@@ -1,0 +1,6 @@
+39. Which PDU does an SNMP manager use to query agents?
+A) Get
+B) Response
+C) Set
+D) Trap
+Answer: A

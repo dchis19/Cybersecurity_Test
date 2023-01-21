@@ -1,0 +1,6 @@
+31. Which of the following differentiates a PLC from a DCS controller?
+A) Sequential control
+B) Sensors
+C) Operator
+D) Actuator
+Answer: A

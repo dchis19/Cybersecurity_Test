@@ -1,0 +1,6 @@
+43. Which ISO standard covers risk management activities?
+A) ISO 27001
+B) ISO 27701
+C) ISO 27002
+D) ISO 31000
+Answer: D

@@ -1,0 +1,6 @@
+8. A user reports “odd” certificate warnings on her web browser whenever she visits Google. Looking at the network traffic, you notice that all HTTP and HTTPS requests from that system are being routed to the same IP regardless of destination. Which of the following attack types are you seeing in this case?
+A) Evil twin
+B) Man in the middle
+C) Disassociation
+D) MAC cloning
+Answer: B

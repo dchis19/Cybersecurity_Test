@@ -1,0 +1,6 @@
+29. Which protocol allows the passing of legacy authentication protocols such as PAP, CHAP, and MS-CHAP?
+A) EAP-TTLS
+B) EAP-TLS
+C) SAE
+D) CCMP
+Answer: A

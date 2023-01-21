@@ -1,0 +1,6 @@
+19. What kind of DNS records do IPv6 addresses use?
+A) A
+B) SIX
+C) AAAA
+D) NSSIX
+Answer: C

@@ -1,0 +1,6 @@
+21. What protocol do cable modems use?
+A) ACMSIS
+B) CMAS
+C) DOCSIS
+D) CCSIP
+Answer: C

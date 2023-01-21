@@ -1,0 +1,6 @@
+37. You need to analyze previously collected packet data on a network, including editing some of the data. Which is the best tool to use?
+A) tcpreplay
+B) tcpdump
+C) netstat
+D) Wireshark
+Answer: A

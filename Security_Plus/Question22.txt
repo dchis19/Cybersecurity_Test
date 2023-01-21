@@ -1,0 +1,6 @@
+22. What is the best way to get the plaintext from a hash value?
+A) Use linear cryptanalysis.
+B) Use a reverse hash function.
+C) You cannot get the plaintext out of a hash value.
+D) Use an ephemeral key.
+Answer: C

@@ -1,0 +1,6 @@
+41. Which of the following performs a function similar to the familiar parity bits, checksum, or cyclic redundancy check?
+A) Record Offset
+B) Cryptographic Algorithm
+C) Authentication Code
+D) Hashing Algorithm
+Answer: D

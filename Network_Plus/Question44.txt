@@ -1,0 +1,6 @@
+44. What will the command route print return on a Windows system?
+A) The results of the last tracert
+B) The gateway’s router tables
+C) The routes taken by a concurrent connection
+D) The current system’s route tables
+Answer: D

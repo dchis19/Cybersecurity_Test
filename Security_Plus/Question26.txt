@@ -1,0 +1,6 @@
+26. You have a database full of very sensitive data. Salespeople need to access some of this sensitive data when onsite with a customer. The best method to prevent leakage of critical data during these access sessions would be to employ which of the following?
+A) Salting
+B) Hashing
+C) Block List
+D) Tokenization
+Answer: D

@@ -1,0 +1,6 @@
+7. A web application you are reviewing has an input field for username and indicates the username should be between 6 and 12 characters. You’ve discovered that if you input a username that’s 150 characters or more in length, the application crashes. What is this is an example of?
+A) Race condition
+B) DLL injection
+C) System infection
+D) Memory overflow
+Answer: B

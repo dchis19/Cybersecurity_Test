@@ -1,0 +1,6 @@
+25. Which of the following best describes the practice of increasing the capacity of a service or application deployed in a private cloud by adding extra instances in a public cloud?
+A) Cloud bursting
+B) Elasticity
+C) Flexibility
+D) Orchestration
+Answer: A

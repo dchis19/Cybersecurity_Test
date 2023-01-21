@@ -1,0 +1,6 @@
+16. What is the primary downside of a private cloud model?
+A) Restrictive Access Rules
+B) Cost
+C) Scalability
+D) Lack of Vendor Support
+Answer: B

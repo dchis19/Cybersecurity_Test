@@ -2,6 +2,6 @@ The main file for this application is TestCenter.java. The .jar file has the com
 
 NOTE: the emails have been redacted from the Submit.java file and this section will need to be updated by future users. 
 
-NOTE FOR GITHUB: The Spartan_Data_Course Folder has been redacted due to Operational Security (OPSEC) and is not authorized for public release. If you choose this option, the application will fail. 
+NOTE FOR GITHUB: The Spartan_Data_Course Folder has been redacted due to Operational Security (OPSEC) and is not authorized for public release. If you choose this option, the application will fail. Additionally, you must download the com, jaf-1.1.1, and javax, META-INF folders from the internet to enable email capabilities. 
 
 NOTE FOR UPDATING QUESTIONS: Questions must be listed in one line. Follow the exact format for each .txt file to avoid errors
